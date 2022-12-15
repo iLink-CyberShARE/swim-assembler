@@ -27,7 +27,7 @@ This setup is recommended for testing environment.
 2. Install Docker and Docker composer on your target machine.
 3. Setup your docker account at: https://www.docker.com/get-started
 4. Using a command line or terminal navigate to the base path of the project.
-5. Build the image: $docker build -t swim-hs:latest .
+5. Build the image: $docker build -t swim-assembler:latest .
 6. Run the container: $docker run dockeruser/swim-assembler
 7. Swagger docs available at http://localhost:5002/swim-assembler/docs/
 
