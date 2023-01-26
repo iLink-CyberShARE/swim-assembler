@@ -2,7 +2,7 @@ version: '3.8'
 services:      
   swim-assembler: 
     container_name: swim-assembler
-    image: lagarnicachavira/swim-assembler:latest
+    image: lagarnicachavira/swim-assembler-public:latest
     restart: always
     environment:
       # app environment

@@ -40,8 +40,8 @@ This setup is recommended for development environment.
 4. Update the pip repository: $update pip
 5. Install required packages: $py -m pip install -r requirements.txt
 6. Modify the file /app/main/config with your local settings and database connections on the development settings.
-6. Run service on localhost: $py manage.py run  // run webservice on localhost (windows)
-7. swagger docs will be available at http://localhost:5000/swim-assembler/docs/
+7. Run service on localhost: $py manage.py run  // run webservice on localhost (windows)
+8. swagger docs will be available at http://localhost:5000/swim-assembler/docs/
 
 ## Dependencies:
 This service requires previous deployment of the following artifacts. See documentation for more information.
@@ -61,7 +61,7 @@ This service forms part of the SWIM orchestration services for additional docume
 [SWIM Broker](https://water.cybershare.utep.edu/resources/docs/en2/backend/swim-broker/)
 
 ## Contributors
-Luis Garnica Chavira    
+Luis A Garnica Chavira    
 
 ## Acknowledgements
 This material is based upon work supported by the National Science Foundation (NSF) under Grant No. 1835897.   
@@ -69,7 +69,7 @@ This material is based upon work supported by the National Science Foundation (N
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  
 
 ## License
-GNU General Public License 3.0
+This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
 
-## Copyright   
-© 2022 - University of Texas at El Paso (SWIM Project).   
+## Copyright
+© 2019-2023 - University of Texas at El Paso (SWIM Project).
