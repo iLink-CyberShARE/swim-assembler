@@ -68,6 +68,18 @@ This material is based upon work supported by the National Science Foundation (N
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.  
 
+## How to cite
+If you create products such as publications using SWIM products, it would be great if you add the  following acknowledgement:   
+
+"This work used the Sustainable Water for Integrated Modeling (SWIM) 2.0, which was supported by the National Science Foundation under Grant No. 1835897."  
+
+Please use the following citation for this product:     
+
+Automating Multivariable Workflow Composition for Model-to-Model Integration   
+Vargas Acosta R. A., Garnica Chavira L., Villanueva-Rosales N., Pennington D.   
+2022 IEEE 18th International Conference on e-Science, Salt Lake City, USA. October 11-14, 2022.   
+DOI 10.1109/eScience55777.2022.00030 
+
 ## License
 This software code is licensed under the [GNU GENERAL PUBLIC LICENSE v3.0](./LICENSE) and uses third party libraries that are distributed under their own terms (see [LICENSE-3RD-PARTY.md](./LICENSE-3RD-PARTY.md)).
 
